@@ -1,0 +1,27 @@
+Êþº¾   3 J   com/beans/StudentBean  java/lang/Object rollno I name Ljava/lang/String; email sex course fee paid due address contact <init> ()V Code
+     LineNumberTable LocalVariableTable this "Lcom/javatpoint/beans/StudentBean; r(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;IIILjava/lang/String;Ljava/lang/String;)V	    	   	 	    
+ 	  "  	  $  	  &  	  (  	  *  	  ,   s(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;IIILjava/lang/String;Ljava/lang/String;)V	  /   	getRollno ()I 	setRollno (I)V getName ()Ljava/lang/String; setName (Ljava/lang/String;)V getEmail setEmail getSex setSex 	getCourse 	setCourse getFee setFee getPaid setPaid getDue setDue 
+getAddress 
+setAddress 
+getContact 
+setContact 
+SourceFile StudentBean.java !     
+            	     
+                                          /     *· ±           	                    ä  
+   8*· *+µ *,µ *-µ *µ !*µ #*µ %*µ '*µ )*	µ +±       .       	          %  +  1  7     f 
+   8       8      8 	     8 
+     8      8      8      8      8      8   	   -     ø     >*· *µ .*,µ *-µ *µ *µ !*µ #*µ %*µ '*	µ )*
+µ +±       2       	          ! % " + # 1 $ 7 % = &    p    >       >      >      > 	     > 
+     >      >      >      >      >   	   >   
+  0 1     /     *´ .¬           )              2 3     >     *µ .±       
+    ,  -                    4 5     /     *´ °           /              6 7     >     *+µ ±       
+    2  3                    8 5     /     *´ °           5              9 7     >     *+µ ±       
+    8  9                	    : 5     /     *´ °           ;              ; 7     >     *+µ ±       
+    >  ?                
+    < 5     /     *´ !°           A              = 7     >     *+µ !±       
+    D  E                    > 1     /     *´ #¬           G              ? 3     >     *µ #±       
+    J  K                    @ 1     /     *´ %¬           M              A 3     >     *µ %±       
+    P  Q                    B 1     /     *´ '¬           S              C 3     >     *µ '±       
+    V  W                    D 5     /     *´ )°           Y              E 7     >     *+µ )±       
+    \  ]                    F 5     /     *´ +°           _              G 7     >     *+µ +±       
+    b  c                    H    I
